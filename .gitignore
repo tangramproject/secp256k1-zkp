@@ -56,3 +56,4 @@ build/
 build_32/
 build_64/
 lib
+native/
